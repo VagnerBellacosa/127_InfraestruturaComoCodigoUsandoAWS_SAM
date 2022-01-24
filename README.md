@@ -5,8 +5,17 @@
 Infraestrutura Como Código Usando AWS SAM
 
 CONTEÚDOS - INFORMAÇÕES - DESCRIÇÃO
-AWS
-Full-Stack - Intermediário
+
+ infraestrutura como código na AWS utilizando o AWS Serverless Application Model - SAM
+
+Serviços utilizados
+- AWS CLI
+- AWS SAM CLI
+- AWS SAM Template
+- Git
+- Docker
+
+AWS - Full-Stack - Intermediário
 ESPECIALISTA
 #### Cassiano Peres
 Instrutor, Digital Innovation One
